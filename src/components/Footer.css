@@ -1,0 +1,25 @@
+.footer{
+    background-color: rgb(57, 57, 57);
+    padding: 1%;
+    color: white;
+    padding-left: 5%;
+    
+}
+.made{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.reserved{
+    display: flex;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.main a{
+    text-decoration: none;
+    color: white;
+}
